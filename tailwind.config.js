@@ -19,6 +19,10 @@ module.exports = {
         "Ubuntu-Mono": ["Ubuntu Mono", "Roboto"],
         "Open-Sans": ["Open Sans", "Roboto"],
       },
+
+      screens: {
+        sm: "390px",
+      },
     },
   },
   plugins: [],

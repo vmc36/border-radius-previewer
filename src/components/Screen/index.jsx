@@ -19,10 +19,10 @@ export const Screen = () => {
     <>
       <img className="ocatocat " src="/OctocatCorner.svg" alt="OctocatCorner" />
 
-      <h1 className="mt-9 text-center font-Open-Sans text-7xl font-extrabold text-titleColor">
+      <h1 className="mt-9 text-center font-Open-Sans text-7xl font-extrabold text-titleColor sm:text-5xl">
         [Previewer]
       </h1>
-      <h2 className="mb-[72px] text-center font-Open-Sans text-7xl font-bold text-titleColor">
+      <h2 className="mb-[72px] text-center font-Open-Sans text-7xl font-bold text-titleColor sm:text-5xl">
         {" "}
         border-radius:
       </h2>

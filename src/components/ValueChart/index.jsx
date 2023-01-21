@@ -16,9 +16,9 @@ export const ValueChart = ({ borderRadius }) => {
       ? borderRadius.bottomLeft + "px"
       : borderRadius.bottomLeft
   };`;
-
   const clipboardValue = () => {
     navigator.clipboard.writeText(valueBorderRadius);
+    window.alert("Valor Copiado!");
   };
 
   return (
