@@ -1,9 +1,9 @@
-# border-radius-previewer
+# Border Radius Previewer
 
 - **template of:** vite + react
 - **tailwindcss:** v3.x
 
-## About
+## Sobre
 
 Trata-se de um projeto a partir do desafio da comunidade DevSoutinho Labs.
 
@@ -21,7 +21,7 @@ o Projeto é um CSS border radius previewer, onde você insere o valor em um dos
 
 ```bash
 # Abra a pasta do repositório
-cd local-da-pasta
+# cd local-da-pasta
 ```
 
 ```bash
