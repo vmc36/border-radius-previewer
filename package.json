@@ -1,6 +1,6 @@
 {
-  "name": "template-vite-react-tailwind-v3",
-  "version": "0.0.0",
+  "name": "css-border-radius-previewer",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -9,6 +9,11 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "author": {
+    "name": "Vinicius Modesto",
+    "email": "viniciusmodesto.dev@gmail.com",
+    "license": "MIT"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
